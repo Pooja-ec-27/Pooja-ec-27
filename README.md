@@ -1,4 +1,4 @@
-<img src="images/qnx-logo.png" width="120" align="left"/>
+<img src="https://github.com/user-attachments/assets/98c1ae9f-a228-4211-a878-247ad43192bc" width="120" align="left"/>
 
 # Q-eHACK 2026 — QNX RTOS Hackathon
 
